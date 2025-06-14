@@ -47,4 +47,5 @@ A simple, responsive, and feature-rich **Expense Tracker** web application built
 
 ---
 👤 Author
+
 Made with 💙 by Sourish Panja
