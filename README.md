@@ -1,28 +1,50 @@
-💸 Expense Tracker
-A simple, responsive, and feature-rich Expense Tracker web application built using Flask for the backend and Streamlit for the frontend. It allows users to add, view, filter, analyze, and delete expenses, with data stored in a CSV file.
+# 💸 Expense Tracker
 
-🚀 Features
-✅ Add new expenses with date, category, amount, and note
+A simple, responsive, and feature-rich **Expense Tracker** web application built using **Flask** for the backend and **Streamlit** for the frontend. It enables users to effortlessly **add**, **view**, **filter**, **analyze**, and **delete** expenses, with data stored locally in a **CSV** file.
 
-🗑️ Delete individual expenses by index
+🚀 **Live Demo:**  
+👉 (https://expense-tracker-frontend-1mhe.onrender.com)
 
-📋 View all expenses in a well-structured table
+---
 
-🔍 Filter expenses by category or note text
+## 🔥 Features
 
-📊 Visual analytics (category-wise pie chart, monthly bar graph)
+- ✅ **Add New Expenses**  
+  - Date, Category, Amount, and Note support
 
-💾 Download all expenses as a CSV file
+- 🗑️ **Delete Expenses**  
+  - Remove entries by index
 
-💡 Real-time feedback messages (success/error)
+- 📋 **View All Expenses**  
+  - Responsive and searchable table
 
-🖼️ Clean and stylish Streamlit UI
+- 🔍 **Filter & Search**  
+  - Filter by category or search in note field
 
-🛠 Tech Stack
-Layer	Tech
-Backend	Flask (Python)
-Frontend	Streamlit (Python)
-Database	CSV File
-Visuals	Plotly
+- 📊 **Visual Analytics**  
+  - Pie chart by category  
+  - Monthly bar graph
 
-Made by Sourish Panja
+- 💾 **Download as CSV**  
+  - Export all your expenses
+
+- 💡 **Real-Time Feedback**  
+  - Instant success/error notifications
+
+- 🖼️ **Modern UI**  
+  - Built using **Streamlit** with a clean and intuitive layout
+
+---
+
+## 🛠 Tech Stack
+
+| Layer     | Technology         |
+|-----------|--------------------|
+| Backend   | Flask (Python)     |
+| Frontend  | Streamlit (Python) |
+| Database  | CSV File           |
+| Visuals   | Plotly             |
+
+---
+👤 Author
+Made with 💙 by Sourish Panja
