@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 import plotly.express as px
 
-API_URL = "http://127.0.0.1:5000"
+API_URL = ""https://expense-tracker-backend-ni52.onrender.com"
 
 st.set_page_config(page_title="💸 Expense Tracker", layout="wide")
 
