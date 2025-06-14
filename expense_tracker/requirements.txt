@@ -1,4 +1,6 @@
-flask
-streamlit
+Flask
 pandas
 requests
+plotly
+streamlit
+gunicorn
